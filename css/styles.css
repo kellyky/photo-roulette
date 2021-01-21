@@ -1,0 +1,12 @@
+h1 {
+  padding-top: 35px;
+}
+
+header {
+  display: fixed;
+  height: 100px;
+}
+
+.photo {
+  display: none;
+}
