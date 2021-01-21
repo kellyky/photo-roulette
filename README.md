@@ -16,5 +16,5 @@ Visit https://kellyky.github.io/photo-roulette/ and proceed as prompted.
 ## Known Bugs
 N/a
 
-##
-# asdffdsaalicelice####https://choosealicense.com/licenses/mit/
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
