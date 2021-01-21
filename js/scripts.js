@@ -3,6 +3,7 @@ $(document).ready(function() {
     event.preventDefault();
     const num = parseInt($("#number").val());
     $("body").addClass("play-again");
+    $("#photoChoice").hide();
     $(".play-again").show();
     
     if (num === 1) {
